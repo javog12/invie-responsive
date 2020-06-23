@@ -1,4 +1,4 @@
-# invie
-Las guitarras más locas
+# Proyecto Web Responsive 
 
+basado en el web page de:
 http://leonidasesteban.github.io/invie-responsive/
